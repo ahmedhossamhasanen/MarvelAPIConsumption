@@ -49,6 +49,7 @@ The script organizes data in the following directory structure:
 - logging/
   - app.log
 
+![alt text](diagram.jpg "Data Workflow")
 
 ## Data Flow
 
